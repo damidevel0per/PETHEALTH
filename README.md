@@ -31,5 +31,4 @@ Bienvenido a la Clínica Veterinaria, una aplicación de Windows Forms para la g
 
 - C#
 - Windows Forms
-- SQL Server# PETHEALTH
-Aplicación de Windows Forms para la gestión de pacientes de una veterinaria, conectada a una base de datos SQL Server.
+- SQL Server
