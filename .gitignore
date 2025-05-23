@@ -1,0 +1,9 @@
+# Object file
+*.o
+*.json
+bin/
+obj/
+Veterinaria/App.config
+
+# Ada Library Information
+*.ali
